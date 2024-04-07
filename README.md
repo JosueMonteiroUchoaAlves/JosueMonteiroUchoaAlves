@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d6be1f&height=120&section=header" />
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d6be1f&size=35&center=true&vCenter=true&width=1000&lines=Hello!;My+name+is+Josué+Monteiro;I'm+15+years+old;I'm+from+Brazil;I'm+studying+Computer+Technician+on+IFNMG)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d6be1f&size=35&center=true&vCenter=true&width=1000&lines=Hello!;My+name+is+Josué+Monteiro;I'm+16+years+old;I'm+from+Brazil;I'm+studying+Computer+Technician+on+IFNMG)](https://git.io/typing-svg)
 
 <div align="center" height="195px">  
   <img width="49%" height="195px" src="https://josue-monteiro-uchoa-alves-t15e.vercel.app/api?username=JosueMonteiroUchoaAlves&show_icons=true&&bg_color=35,d6be1f,79571a&count_private=true&include_all_commits=true&title_color=fff&text_color=fff&icon_color=fff" alt="Josué GitHub stats" /> 
@@ -24,5 +24,9 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div>
 </div>
+
+## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
+
+[![A portfolio site](https://svg.bookmark.style/api?url=https://github.com/JosueMonteiroUchoaAlves/my_portfolio&mode=dark&style=horizontal)](https://github.com/JosueMonteiroUchoaAlves/my_portfolio)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d6be1f&height=120&section=footer" />
