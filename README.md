@@ -3,9 +3,8 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d6be1f&size=35&center=true&vCenter=true&width=1000&lines=Hello!;My+name+is+Josué+Monteiro;I'm+16+years+old;I'm+from+Brazil;I'm+studying+Computer+Technician+on+IFNMG)](https://git.io/typing-svg)
 
 <div align="center" height="195px">  
-  <img width="49%" height="195px" src="https://josue-monteiro-uchoa-alves-t15e.vercel.app/api?username=JosueMonteiroUchoaAlves&show_icons=true&&bg_color=35,d6be1f,79571a&count_private=true&include_all_commits=true&title_color=fff&text_color=fff&icon_color=fff" alt="Josué GitHub stats" /> 
-
-  <img width="41%" height="195px" src="https://josue-monteiro-uchoa-alves-t15e.vercel.app/api/top-langs/?username=JosueMonteiroUchoaAlves&layout=compact&theme=dark" alt="Josué's Top Langs" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JosueMonteiroUchoaAlves&show_icons=true&&bg_color=35,d6be1f,79571a&count_private=true&include_all_commits=true&title_color=fff&text_color=fff&icon_color=fff" alt="Josué GitHub stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueMonteiroUchoaAlves&layout=compact&theme=dark" alt="Josué's Top Langs" />
      <img width="41%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=JosueMonteiroUchoaAlves&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="Josué's Longest Streak" />
 </div>
 <div align="center">  
