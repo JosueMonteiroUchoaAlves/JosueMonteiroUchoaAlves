@@ -26,7 +26,7 @@
 
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 [![A portfolio site](https://svg.bookmark.style/api?url=https://github.com/JosueMonteiroUchoaAlves/my_portfolio&mode=dark&style=horizontal)](https://github.com/JosueMonteiroUchoaAlves/my_portfolio)
-
+[![Problem Solving repository](https://svg.bookmark.style/api?url=https://github.com/JosueMonteiroUchoaAlves/ProblemSolving&mode=dark&style=horizontal)](https://github.com/JosueMonteiroUchoaAlves/my_portfolio)
 <div align="center" >
 
 ![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/JosueMonteiroUchoaAlves?chart=3dbar&gap=0.6&scale=2&flatten=3&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=10&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=yellow) 
