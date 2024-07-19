@@ -4,8 +4,8 @@
 
 <div align="center" height="195px">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JosueMonteiroUchoaAlves&show_icons=true&&bg_color=35,d6be1f,79571a&count_private=true&include_all_commits=true&title_color=fff&text_color=fff&icon_color=fff" alt="Josué GitHub stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueMonteiroUchoaAlves&layout=compact&theme=dark" alt="Josué's Top Langs" />
-     <img width="41%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=JosueMonteiroUchoaAlves&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="Josué's Longest Streak" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueMonteiroUchoaAlves&layout=compact&theme=dark" alt="Josué's Top Langs" />
+  <img width="41%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=JosueMonteiroUchoaAlves&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="Josué's Longest Streak" />
 </div>
 <div align="center">  
 
@@ -17,21 +17,38 @@
 
 ## Technologies I use frequently
 
-<div style="display: inline_block">
+<div style="display: inline_block ">
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
   <img align="center" alt="cplusplus" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  
 </div>
 
 </div>
 
+<p align="center ">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <br><br>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JosueUchoa" alt="Harlok's WakaTime stats">
+  </a>
+</p>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JosueUchoa)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
-[![A portfolio site](https://github-readme-stats.vercel.app/api/pin?username=JosueMonteiroUchoaAlves\&repo=my_portfolio\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/JosueMonteiroUchoaAlves/my_portfolio)
+<div style="display: inline_block ">
+  <p align="center ">
+    <a href="https://github.com/JosueMonteiroUchoaAlves/my_portfolio">
+      <br><br>
+      <img src="https://github-readme-stats.vercel.app/api/pin?username=JosueMonteiroUchoaAlves&repo=my_portfolio&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="A portfolio site">
+    </a>
+  </p>
+  <p align="center ">
+    <a href="https://github.com/JosueMonteiroUchoaAlves/ProblemSolving">
+      <br><br>
+      <img src="https://github-readme-stats.vercel.app/api/pin?username=JosueMonteiroUchoaAlves&repo=ProblemSolving&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Problem Solving repository">
+    </a>
+  </p>
+</div>
 
-[![Problem Solving repository](https://github-readme-stats.vercel.app/api/pin?username=JosueMonteiroUchoaAlves\&repo=ProblemSolving\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/JosueMonteiroUchoaAlves/ProblemSolving)
 <div align="center" >
 
 ![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/JosueMonteiroUchoaAlves?chart=3dbar&gap=0.6&scale=2&flatten=3&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=10&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=yellow) 
