@@ -24,14 +24,6 @@
 
 </div>
 
-<p align="center ">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <br><br>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JosueUchoa" alt="Harlok's WakaTime stats">
-  </a>
-</p>
-
-
 
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 <div style="display: inline_block ">
