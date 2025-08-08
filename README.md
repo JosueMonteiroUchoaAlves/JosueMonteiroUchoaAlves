@@ -1,12 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d6be1f&height=120&section=header" />
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d6be1f&size=35&center=true&duration=1500&pause=500&vCenter=true&width=1000&lines=Josue+Uchoa;17+years+old;Problem+solver;Full-Stack+Dev;Check+out+my+Linkedin+Below)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d6be1f&size=35&center=true&duration=1500&pause=500&vCenter=true&width=1000&lines=Josue+Uchoa;18+years+old;Problem+solver;Full-Stack+Dev;Check+out+my+Linkedin+Below)](https://git.io/typing-svg)
 
 
 
 <div align="center">  
   <a href="https://www.linkedin.com/in/josh-alves/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:jmua@aluno.ifnmg.edu.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:josue.player01@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
 <div align="center" height="195px">  
