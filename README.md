@@ -33,12 +33,6 @@
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 <div style="display: inline_block ">
   <p align="center ">
-    <a href="https://github.com/JosueMonteiroUchoaAlves/my_portfolio">
-      <br><br>
-      <img src="https://github-readme-stats.vercel.app/api/pin?username=JosueMonteiroUchoaAlves&repo=my_portfolio&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="A portfolio site">
-    </a>
-  </p>
-  <p align="center ">
     <a href="https://github.com/JosueMonteiroUchoaAlves/ProblemSolving">
       <br><br>
       <img src="https://github-readme-stats.vercel.app/api/pin?username=JosueMonteiroUchoaAlves&repo=ProblemSolving&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Problem Solving repository">
