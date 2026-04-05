@@ -37,7 +37,7 @@ github-readme-stats-git-next-josuemonteirouchoaalves-projects.vercel.app/api/top
   <p align="center ">
     <a href="https://github.com/JosueMonteiroUchoaAlves/ProblemSolving">
       <br><br>
-      <img src="https://github-readme-stats.vercel.app/api/pin?username=JosueMonteiroUchoaAlves&repo=ProblemSolving&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Problem Solving repository">
+      <img src="https://github-readme-stats-git-next-josuemonteirouchoaalves-projects.vercel.app/api/pin?username=JosueMonteiroUchoaAlves&repo=ProblemSolving&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Problem Solving repository">
     </a>
   </p>
 </div>
