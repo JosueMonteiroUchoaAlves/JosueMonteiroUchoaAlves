@@ -10,16 +10,14 @@
 </div>
 
 <div align="center" height="195px">  
-  <img width="100%" height="195px" src="https://
-github-readme-stats-git-next-josuemonteirouchoaalves-projects.vercel.app/api?username=JosueMonteiroUchoaAlves&show_icons=true&&bg_color=35,d6be1f,79571a&count_private=true&include_all_commits=true&title_color=fff&text_color=fff&icon_color=fff" alt="Josué GitHub stats" /> 
-  <img width="45%" height="185px" src="https://
-github-readme-stats-git-next-josuemonteirouchoaalves-projects.vercel.app/api/top-langs/?username=JosueMonteiroUchoaAlves&layout=compact&theme=dark" alt="Josué's Top Langs" />
+  <img width="100%" height="195px" src="https://github-readme-stats.shion.dev/api?username=JosueMonteiroUchoaAlves&show_icons=true&&bg_color=35,d6be1f,79571a&count_private=true&include_all_commits=true&title_color=fff&text_color=fff&icon_color=fff" alt="Josué GitHub stats" /> 
+  <img width="45%" height="185px" src="https://github-readme-stats.shion.dev/api/top-langs/?username=JosueMonteiroUchoaAlves&layout=compact&theme=dark" alt="Josué's Top Langs" />
   <img width="45%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=JosueMonteiroUchoaAlves&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="Josué's Longest Streak" />
 </div>
 
 <div align="center">  
 
-## How good am I
+## How good I am
 <a href="https://www.hackerrank.com/profile/josue_player01" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
 <a href="https://leetcode.com/u/Josue_Monteiro/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
 
@@ -37,7 +35,7 @@ github-readme-stats-git-next-josuemonteirouchoaalves-projects.vercel.app/api/top
   <p align="center ">
     <a href="https://github.com/JosueMonteiroUchoaAlves/ProblemSolving">
       <br><br>
-      <img src="https://github-readme-stats-git-next-josuemonteirouchoaalves-projects.vercel.app/api/pin?username=JosueMonteiroUchoaAlves&repo=ProblemSolving&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Problem Solving repository">
+      <img src="https://github-readme-stats.shion.dev/api/pin?username=JosueMonteiroUchoaAlves&repo=ProblemSolving&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Problem Solving repository">
     </a>
   </p>
 </div>
@@ -47,9 +45,5 @@ github-readme-stats-git-next-josuemonteirouchoaalves-projects.vercel.app/api/top
 ![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/JosueMonteiroUchoaAlves?chart=3dbar&gap=0.6&scale=2&flatten=3&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=10&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=yellow) 
 
 </div>
-
-<p align="center"><b>Visitors Count</b></p> 
-  
-<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FJosueMonteiroUchoaAlves&s=50&c=79571a&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d6be1f&height=120&section=footer" />
