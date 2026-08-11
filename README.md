@@ -18,8 +18,8 @@
 <div align="center">  
 
 ## How good I am
-<a href="https://www.hackerrank.com/profile/josue_player01" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
-<a href="https://leetcode.com/u/Josue_Monteiro/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
+<a href="https://www.hackerrank.com/profile/josueUchoa" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
+<a href="https://leetcode.com/u/JosueUchoa/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
 
 ## Technologies I use frequently
 
